@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Geist.Events")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c70c896265c872b2ec53f36479e511f4f4aa5a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a73f4c0b760de4cae91a0fc8d928e9da3738d20")]
 [assembly: System.Reflection.AssemblyProductAttribute("Geist.Events")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Geist.Events")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
