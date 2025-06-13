@@ -1,4 +1,4 @@
-﻿namespace Geist.Ecs;
+﻿namespace Geist.Mg;
 
 public class Class1
 {
